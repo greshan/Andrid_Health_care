@@ -4,4 +4,4 @@ Registers user Details
 
 Login authentication 
 
-Alarm Notification Addess
+Alarm Notification Added
